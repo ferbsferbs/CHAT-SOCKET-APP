@@ -1,8 +1,31 @@
 import React, { useState, useCallback, useEffect } from 'react'
 import { GiftedChat } from 'react-native-gifted-chat'
-
+import io from 'socket.io-client/dist/socket.io';
+var socket;
 export function Example() {
+
+  useEffect(() => {
+
+    socket = io.connect('http://localhost:80', {
+      transports: ['websocket']
+    });
+    onConnectSocket()
+
+  }, [])
   const [messages, setMessages] = useState([]);
+
+ const  onConnectSocket = () => {
+    //Vérification si socket n'est pas à null
+    if(socket) {
+      //Ecoute de l'évènement
+      socket.on('connect', () => {
+        socket.emit('i-am-connected'); // Emission d'un message
+
+        //Modification du status de connexion
+        
+      });
+    }
+  }
 
   useEffect(() => {
     setMessages([
