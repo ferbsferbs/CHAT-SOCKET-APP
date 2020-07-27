@@ -5,16 +5,16 @@ import { Example } from './src/example';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+   
     <Example></Example>
-    </View>
+ 
   );
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fffff',
+    backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
   },
