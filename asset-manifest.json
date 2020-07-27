@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/CHAT-SOCKET-APP/static/js/app.1e2aead2.chunk.js",
-    "app.js.map": "/CHAT-SOCKET-APP/static/js/app.1e2aead2.chunk.js.map",
+    "app.js": "/CHAT-SOCKET-APP/static/js/app.cab7b05b.chunk.js",
+    "app.js.map": "/CHAT-SOCKET-APP/static/js/app.cab7b05b.chunk.js.map",
     "runtime~app.js": "/CHAT-SOCKET-APP/static/js/runtime~app.ed5d32f0.js",
     "runtime~app.js.map": "/CHAT-SOCKET-APP/static/js/runtime~app.ed5d32f0.js.map",
     "static/js/2.83d79529.chunk.js": "/CHAT-SOCKET-APP/static/js/2.83d79529.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.ed5d32f0.js",
     "static/js/2.83d79529.chunk.js",
-    "static/js/app.1e2aead2.chunk.js"
+    "static/js/app.cab7b05b.chunk.js"
   ]
 }

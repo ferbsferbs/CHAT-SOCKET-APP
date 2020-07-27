@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "8284544fc8214cc62661",
-    "url": "/CHAT-SOCKET-APP/static/js/app.1e2aead2.chunk.js"
+    "revision": "95bf53d4aa69b96660ec",
+    "url": "/CHAT-SOCKET-APP/static/js/app.cab7b05b.chunk.js"
   },
   {
     "revision": "422afdff6cf3bcf04efa",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/CHAT-SOCKET-APP/expo-service-worker.js"
   },
   {
-    "revision": "ed7a5329cbd1876db0ce67cd76c8f01e",
+    "revision": "4f005cc0a5be09a1ffdd3c3135f4ce3c",
     "url": "/CHAT-SOCKET-APP/index.html"
   },
   {

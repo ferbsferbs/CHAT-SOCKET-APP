@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CHAT-SOCKET-APP/precache-manifest.24813631484b32d88c58c5d4373554a2.js"
+  "/CHAT-SOCKET-APP/precache-manifest.8096ee68052062a1efff31e7342aebff.js"
 );
 
 workbox.skipWaiting();
