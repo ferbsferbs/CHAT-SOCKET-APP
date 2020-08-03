@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "780810281201",
+    "firebase_url": "https://chat-fer.firebaseio.com",
+    "project_id": "chat-fer",
+    "storage_bucket": "chat-fer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780810281201:android:8db84d57c37b4cc5cfc950",
+        "android_client_info": {
+          "package_name": "com.ferbs.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVC_CxHnl738GesChNrrwyjZMhBU3fYFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780810281201-al3r9p8n7ljtq9np598cj196rgf1qmmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780810281201:android:3b0dcf06c283b2facfc950",
+        "android_client_info": {
+          "package_name": "com.rnfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVC_CxHnl738GesChNrrwyjZMhBU3fYFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780810281201-al3r9p8n7ljtq9np598cj196rgf1qmmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
